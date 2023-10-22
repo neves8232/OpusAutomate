@@ -1,0 +1,14 @@
+a_selenium2df==0.10
+colorama==0.4.6
+google_api_python_client==2.103.0
+httpx==0.25.0
+isodate==0.6.1
+pandas==2.0.3
+PrettyColorPrinter==0.43
+PrettyColorPrinter==0.43
+pytube==15.0.0
+Requests==2.31.0
+rich==13.6.0
+selenium==4.14.0
+seleniumbase==4.20.2
+toml==0.10.2

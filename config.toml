@@ -1,0 +1,10 @@
+[driver]
+headless = false
+proxy = "pt"
+
+[video_settings]
+yt_links = [ "https://www.youtube.com/watch?v=KrLj6nc516A", "https://www.youtube.com/watch?v=vBpQ1SlfVtU", "https://www.youtube.com/watch?v=J_z-W4UVHkw", "https://www.youtube.com/watch?v=jObOjhUkf50", "https://www.youtube.com/watch?v=yhB3BgJyGl8",]
+num_shorts = 3
+path_video = "D:\\Video Project\\Videos"
+channel = "Briefly Hilarious"
+channel_fetch_id = "UCX6OQ3DkcsbYNE6H8uQQuVA"
